@@ -5,8 +5,7 @@ Me chamo Fernando Esteves, trabalho no desenvolvimento Full Stack e tenho domini
 Trabalho no desenvolvimento Full Stack na Upplay Comunicação e Marketing Digital com Angular e Laravel, eu e a equipe estamos implementando o Node e React
 
 #
-### Fale comigo
-e-mail: arquivos.fernandoesteves@gmail.com 
+Email: arquivos.fernandoesteves@gmail.com 
 WhatsApp: (54)98445=6466
 
     
